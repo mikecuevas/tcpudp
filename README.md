@@ -32,4 +32,5 @@ python clientUDP.py
 
 ### Funcionamento
 O servidor TCP/UDP escuta nas portas 5000 e 5001 respectivamente. 
-Quando um cliente se conecta e envia uma mensagem, o servidor irá responder com uma mensagem de reconhecimento (ACK).
+Quando um cliente se conecta e envia uma mensagem, 
+o servidor irá responder com uma mensagem de reconhecimento (ACK).
